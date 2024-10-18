@@ -1,0 +1,45 @@
+﻿@model List<PROG6212.Models.Claim>
+
+<div class="container mt-5">
+    <h2>Approve or Reject Claims</h2>
+    <table class="table table-striped mt-4">
+        <thead>
+            <tr>
+                <th>Claim ID</th>
+                <th>Lecturer</th>
+                <th>Claim Date</th>
+                <th>Total Amount</th>
+                <th>Status</th>
+
+                <th>Files</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.ClaimID</td>
+                    <td>@claim.Lecturer</td>
+                    <td>@claim.Date.ToString("yyyy-MM-dd")</td>
+                    <td>@(claim.HoursWorked * claim.HourlyRate)</td>
+                    <td>@claim.Status</td>
+                    <td>
+                        <a href="@claim.SupportingDocument" download target="_blank" class="text-primary">Download Document</a>
+                    </td>
+
+                    <td>
+                        <form asp-action="ApproveClaim" method="post" style="display:inline;">
+                            <input type="hidden" name="claimId" value="@claim.ClaimID" />
+                            <button type="submit" class="btn btn-approve">Approve</button>
+                        </form>
+                        <form asp-action="RejectClaim" method="post" style="display:inline;">
+                            <input type="hidden" name="claimId" value="@claim.ClaimID" />
+                            <button type="submit" class="btn btn-reject">Reject</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,35 @@
+﻿@model List<PROG6212.Models.Claim>
+
+<div class="container">
+    <h2>View Claim Status</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Claim ID</th>
+                <th>Lecturer</th>
+                <th>Date</th>
+                <th>Total Hours</th>
+                <th>Total Amount</th>
+                <th>Status</th>
+                <th>Additional Notes</th>
+
+                <th>Files</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.ClaimID</td>
+                    <td>@claim.Lecturer</td>
+                    <td>@claim.Date.ToString("yyyy-MM-dd")</td>
+                    <td>@claim.HoursWorked</td>
+                    <td>@(claim.HoursWorked * claim.HourlyRate)</td>
+                    <td>@claim.Status</td>
+                    <td>@claim.AdditionalNotes</td>
+                    <td>@claim.SupportingDocument</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\views\\home\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:views\\home\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\views\\home\\approverejectclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:views\\home\\approverejectclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\views\\home\\viewclaimstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:views\\home\\viewclaimstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\prog6212.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:prog6212.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|c:\\users\\veeasha\\downloads\\prog6212-part-2-veeasha-main\\prog6212-part-2-veeasha-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DA0E184-89C1-44BB-A5CE-45164C8E7FBA}|PROG6212.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Veeasha\\Downloads\\prog6212-part-1-Veeasha-main\\POE2UnitTests\\Controllers\\HomeControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAALQAAAAAAAAAAAAswLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T14:36:00.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewClaimStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Home\\ViewClaimStatus.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ViewClaimStatus.cshtml",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Home\\ViewClaimStatus.cshtml",
+              "RelativeToolTip": "Views\\Home\\ViewClaimStatus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:21:17.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:18:26.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-1-Veeasha-main\\POE2UnitTests\\Controllers\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\prog6212-part-1-Veeasha-main\\POE2UnitTests\\Controllers\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-1-Veeasha-main\\POE2UnitTests\\Controllers\\HomeControllerTests.cs",
+              "RelativeToolTip": "..\\..\\prog6212-part-1-Veeasha-main\\POE2UnitTests\\Controllers\\HomeControllerTests.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAqwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:29:48.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubmitClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Home\\SubmitClaim.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SubmitClaim.cshtml",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Home\\SubmitClaim.cshtml",
+              "RelativeToolTip": "Views\\Home\\SubmitClaim.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:19:22.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:22:53.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:01:42.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T15:24:40.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApproveRejectClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Home\\ApproveRejectClaims.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ApproveRejectClaims.cshtml",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Views\\Home\\ApproveRejectClaims.cshtml",
+              "RelativeToolTip": "Views\\Home\\ApproveRejectClaims.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T11:48:14.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PROG6212.csproj",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\PROG6212.csproj",
+              "RelativeDocumentMoniker": "PROG6212.csproj",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\PROG6212.csproj",
+              "RelativeToolTip": "PROG6212.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T21:06:12.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:03:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T18:52:35.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

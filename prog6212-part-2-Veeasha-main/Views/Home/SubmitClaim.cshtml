@@ -1,0 +1,53 @@
+﻿@model PROG6212.Models.Claim
+
+<div class="container">
+    <h2>Submit New Claim</h2>
+    <form asp-action="SubmitClaim" method="post">
+        <div class="form-group">
+            <label for="Lecturer">Lecturer Name:</label>
+            <input type="text" class="form-control" id="Lecturer" name="Lecturer" required />
+        </div>
+
+        <div class="form-group">
+            <label for="Date">Date:</label>
+            <input type="date" class="form-control" id="Date" name="Date" required />
+        </div>
+        <div class="form-group">
+            <label for="HoursWorked">Hours Worked:</label>
+            <input type="number" class="form-control" id="HoursWorked" name="HoursWorked" required oninput="calculateTotalAmount()" />
+        </div>
+        <div class="form-group">
+            <label for="HourlyRate">Hourly Rate:</label>
+            <input type="number" class="form-control" id="HourlyRate" name="HourlyRate" required oninput="calculateTotalAmount()" />
+        </div>
+        <div class="form-group">
+            <label for="TotalAmount">Total Amount:</label>
+            <input type="text" class="form-control" id="TotalAmount" name="TotalAmount" disabled />
+            <input type="hidden" name="TotalAmount" id="HiddenTotalAmount" />
+
+        </div>
+        <div class="form-group">
+            <label for="AdditionalNotes">Additional Notes:</label>
+            <textarea class="form-control" id="AdditionalNotes" name="AdditionalNotes"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="SupportingDocument">Upload Supporting Document:</label>
+            <input type="file" class="form-control" id="SupportingDocument" name="SupportingDocument" accept=".pdf,.docx,.xlsx" />
+        </div>
+        
+
+        <button type="submit" class="btn btn-submit mt-3">Submit</button>
+    </form>
+</div>
+
+<script>
+    function calculateTotalAmount() {
+        const hoursWorked = parseFloat(document.getElementById('HoursWorked').value) ||  0;
+        const hourlyRate = parseFloat(document.getElementById('HourlyRate').value) || 0;
+        const totalAmount = (hoursWorked * hourlyRate).toFixed(2); // Calculate and format to 2 decimal places
+        document.getElementById('TotalAmount').value = totalAmount;
+        document.getElementById('HiddenTotalAmount').value = totalAmount; // Set hidden field value
+    }
+
+  
+</script>

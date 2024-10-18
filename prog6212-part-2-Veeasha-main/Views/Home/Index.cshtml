@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Lecturer Dashboard";
+}
+
+<div class="intro-section">
+    <h1>Welcome to the Contract Monthly Claim System (CMCS)</h1>
+    <p>
+        As a lecturer, submitting your monthly claims has never been easier. With the CMCS, you can now manage and track your claims effortlessly, ensuring that your hard work is accurately compensated. The process is straightforward—simply input your hours worked, hourly rate, and any additional notes through a simple, intuitive form. You can also upload any necessary supporting documents to complete your claim. 
+        Once you've submitted your claim, it will be reviewed by your Programme Coordinator or Academic Manager. You can check the status of your claim at any time on the View Claim Status page. Claims move through different stages—Pending, Approved, or Rejected—and you'll be updated in real time when any action is taken.
+    </p>
+    <p>
+        Thank you for using the CMCS to manage your claims. We aim to streamline this process, making it as efficient and hassle-free as possible, so you can focus on what really matters—teaching.
+    </p>
+    <button class="btn-custom" onclick="location.href='@Url.Action("SubmitClaim", "Home")'">Submit New Claim</button>
+    <button class="btn-custom" onclick="location.href='@Url.Action("ViewClaimStatus", "Home")'">View Claim Status</button>
+</div>
+
+@* https://www.geeksforgeeks.org/web-development/
+
+https://www.geeksforgeeks.org/mvc-design-pattern/
+
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/adding-a-view
+
+https://www.c-sharpcorner.com/article/views-in-asp-net-mvc-5/
+
+https://docs.telerik.com/data-access/quick-start-scenarios/asp.net-mvc/quickstart-mvc-creating-views
+
+https://dotnettutorials.net/lesson/asp-dot-net-mvc-views/
+
+https://www.indeed.com/career-advice/career-development/create-a-daily-schedule
+
+ *@

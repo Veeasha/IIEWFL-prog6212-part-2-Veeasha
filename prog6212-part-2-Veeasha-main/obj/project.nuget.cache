@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBYmsABFTgzAiG0krAsVHN0yw2ePGrhMyz7ybsDmO7n9GejLaFcO8FgmG9mUXcO9UPV7lSR6zb4Zi+hURifsfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-2-Veeasha-main\\PROG6212.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Veeasha\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

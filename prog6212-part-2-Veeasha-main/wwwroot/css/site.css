@@ -1,0 +1,207 @@
+/* General body styling with background */
+body {
+    background-image: url('/images/background.jpg'); /* Replace with your image */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Intro Section Styling */
+.intro-section {
+    background: rgba(255, 255, 255, 0.6); /* More transparent background */
+    padding: 50px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+    .intro-section h1 {
+        color: #003366;
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+    }
+
+    .intro-section p {
+        font-size: 1.2rem;
+        line-height: 1.8;
+    }
+
+/* Button styling: Pink and Light Blue options */
+.btn-custom {
+    background-color: #ff69b4; /* Pink button color */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+    .btn-custom:hover {
+        background-color: black; /* Lighter pink on hover */
+        transform: scale(1.05); /* Slight scale effect on hover */
+    }
+
+/* Light blue button option */
+.btn-blue {
+    background-color: #87cefa; /* Light blue button color */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+    .btn-blue:hover {
+        background-color: #add8e6; /* Lighter blue on hover */
+        transform: scale(1.05); /* Slight scale effect on hover */
+    }
+
+/* Transparent container */
+.container {
+    background: rgba(255, 255, 255, 0.5); /* Transparent background for containers */
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+/* Table styling */
+.table-striped th, .table-striped td {
+    background: rgba(255, 255, 255, 0.8); /* Slightly transparent background for table */
+    border: 1px solid #ddd;
+    padding: 15px;
+}
+/* General page font */
+body, h1, h2, h3, p, button, input, label {
+    font-family: 'Century', serif; /* Applying Century font for everything */
+}
+
+/* Approve button (light blue) */
+.btn-approve {
+    background-color: #6ec9ff; /* Light blue */
+    border-color: #6ec9ff;
+    color: white;
+}
+
+    .btn-approve:hover {
+        background-color: #3eb3ff; /* Darker blue on hover */
+        border-color: #3eb3ff;
+    }
+
+/* Reject button (pink) */
+.btn-reject {
+    background-color: #ff6ec7; /* Pink */
+    border-color: #ff6ec7;
+    color: white;
+}
+
+    .btn-reject:hover {
+        background-color: #ff3eac; /* Darker pink on hover */
+        border-color: #ff3eac;
+    }
+
+/* Submit button (light blue) */
+.btn-submit {
+    background-color: #6ec9ff; /* Light blue */
+    border-color: #6ec9ff;
+    color: white;
+}
+
+    .btn-submit:hover {
+        background-color: #3eb3ff; /* Darker blue on hover */
+        border-color: #3eb3ff;
+    }
+
+/* Transparent container */
+.form-container {
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Top task bar/header styling */
+.header {
+    background-color: #333; /* Dark background for header */
+    overflow: hidden; /* Prevents overflow */
+    text-align: center; /* Centers the header content */
+    padding: 25px 0; /* Padding for space inside the header */
+}
+
+    /* Header links/buttons styling */
+    .header a {
+        font-family: Century, sans-serif; /* Apply Century font */
+        color: white; /* Text color */
+        padding: 14px 20px; /* Padding for clickable area */
+        text-decoration: none; /* Remove underline from links */
+        text-align: center;
+        display: inline-block;
+        font-size: 18px; /* Font size */
+        transition: background-color 0.3s, color 0.3s; /* Smooth hover effect */
+    }
+
+        /* Hover effect for header links */
+        .header a:hover {
+            background-color: #575757; /* Darker gray on hover */
+            color: #ffffff; /* Keeps text white */
+            border-radius: 5px; /* Rounded edges for hover */
+        }
+
+    /* To ensure the header links are inline and centered */
+    .header .nav-links {
+        display: inline-block;
+    }
+/* Increase the size of the navbar */
+.navbar {
+    font-size: 1.3rem;
+    padding: 20px;
+}
+
+/* Center the text within the navbar */
+.navbar-nav .nav-link {
+    text-align: center;
+    margin: 0 10px;
+    transition: transform 0.3s ease; /* Add transition for hover effect */
+}
+
+/* Enlarge navbar links on hover */
+.navbar-nav .nav-item .nav-link:hover {
+    transform: scale(1.1); /* Enlarge on hover */
+}
+
+
+
+
+ 
+
+/* Make sure the font size for everything except the title is larger */
+body {
+    font-family: 'Century', sans-serif;
+    font-size: 1.2rem;
+}
+
+/* Title styling (align to the left) */
+h1, h2, h3 {
+    text-align: left;
+}
+
+/* Buttons hover effect (already implemented) */
+.btn {
+    font-size: 1.1rem;
+}
+
+    .btn:hover {
+        filter: brightness(85%); /* Darken on hover */
+        transition: all 0.3s ease;
+    }

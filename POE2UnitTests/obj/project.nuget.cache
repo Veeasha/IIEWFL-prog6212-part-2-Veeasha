@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "NrHZUn3Ggh8jRppBdePg6iTolyYtsEH0LxicA+Gdc/SHBlHL882ehPddjtAVJoJnyvr28/nYzJPwq081n8o92w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\POE2UnitTests\\POE2UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Veeasha\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Veeasha\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-1-Veeasha-main\\PROG6212.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Veeasha\\Downloads\\prog6212-part-2-Veeasha-main\\prog6212-part-1-Veeasha-main\\PROG6212.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
